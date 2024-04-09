@@ -16,3 +16,9 @@
 Znajdź nas! https://maps.app.goo.gl/yRQXaNH8RS83gofZ9
 
 <img src="img/map bg.png" width="70%" >
+
+
+
+<img src="img/social media.jpg" width="8%" >  
+
+*@La.Dolce.Vita*
