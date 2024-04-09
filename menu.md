@@ -1,6 +1,8 @@
 # Menu
 
 # Kawy
+<img src="img/coffee bg.jpg" width="50%">
+
 ### na ciepło
 - **Espresso**: 8 zł
 - **Americano**: 10 zł
@@ -14,6 +16,8 @@
 
 
 # Herbaty
+
+<img src="img/cup of tea bg.png" width="50%">
 
 ### na ciepło
 - **Czarna (earl grey, golden tips)**: 11 zł
@@ -30,12 +34,15 @@
 
 
 # Napoje
+<img src="img/juice bg.avif" width="50%">
 
 1. **Woda (niegzaowana, gazowana)**: 5 zł
 2. **Smoothies (owocowe, z warzyw)**: 12 zł
 
 
 # Desery
+<img src="img/pie bg.avif" width="50%">
+
 1. **Sernik (klasyczny, malinowy, pistacjowy)**: 14 zł
 2. **Tarta (truskawkowa, cytrynowa)**: 14 zł
 3. **Brownie z lodami i bitą śmietaną**: 14 zł
@@ -43,19 +50,10 @@
 5. **Pudding chia z mlekiem kokosowym i owocami**: 12 zł
 6. **Pączki z nadzieniem sezonowym**: 10 zł
 7. **Muffiny (czekoladowe, jagodowe, bananowe)**: 8 zł
-
-
-# Desery
-1. **Sernik (klasyczny, malinowy, pistacjowy)**: 14 zł
-2. **Tarta (truskawkowa, cytrynowa)**: 14 zł
-3. **Brownie z lodami i bitą śmietaną**: 14 zł
-4. **Szarlotka z lodami śmietankowymi**: 14 zł
-5. **Pudding chia z mlekiem kokosowym i owocami**: 12 zł
-6. **Pączki z nadzieniem sezonowym**: 10 zł
-7. **Muffiny (czekoladowe, jagodowe, bananowe)**: 8 zł
-
 
 # Przekąski
+<img src="img/croissant bg.jpg" width="50%">
+
 1. **Croissanty**:
    - z łososiem, gruszką, rukolą i orzechami: 16 zł
    - z serem kozim, rukolą i miodem: 14 zł
