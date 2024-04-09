@@ -11,3 +11,8 @@
 - Poniedziałek - Piątek: 8:00 - 20:00
 - Sobota: 9:00 - 22:00
 - Niedziela: 10:00 - 18:00
+
+
+Znajdź nas! https://maps.app.goo.gl/yRQXaNH8RS83gofZ9
+
+<img src="img/map bg.png" width="70%" >
