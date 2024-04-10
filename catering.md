@@ -49,3 +49,10 @@ Nasza kawiarnia "La Dolce Vita" oferuje wyjątkowy pakiet cateringowy, który za
 
 ### Cena: 
 Cena pakietu zależy od liczby gości oraz dodatkowych usług. Skontaktuj się z nami, aby uzyskać szczegółową ofertę dostosowaną do Twoich potrzeb.
+
+### Zapraszamy do kontaktu:
+Telefon: *+48 12 345 678*  
+E-mail: *kontakt@ladolcevita.pl*  
+
+
+<img src="img/cat 8.jpeg" width="50%">  
