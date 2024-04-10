@@ -1,6 +1,6 @@
 # Kawiarnia "La Dolce Vita"
 
-<img src="img/cafe bg.avif" width="70%" >
+<img src="img/cafe bg x.png"  >
 
 
 **Witaj w kawiarni "La Dolce Vita"** - miejscu, gdzie czas płynie wolniej, a życie smakuje wyjątkowo. Nasza kawiarnia to oaza spokoju w sercu miasta, gdzie aromatyczna kawa miesza się z nutami świeżo upieczonych deserów, tworząc niepowtarzalny klimat, który skradnie Twoje serce.
