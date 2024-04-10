@@ -24,7 +24,7 @@ Zaufaj nam, aby uczynić Twój event wyjątkowym i niezapomnianym. Skontaktuj si
 <img src="img/ctg z.png" >  
 
 
-### Pakiet Standardowy - "Smaki Kawiarni"
+## Pakiet Standardowy - "Smaki Kawiarni"
 
 Nasza kawiarnia "La Dolce Vita" oferuje wyjątkowy pakiet cateringowy, który zapewni Twoim gościom niezapomniane doznania kulinarne. W ramach naszego pakietu standardowego "Smaki Kawiarni" otrzymasz:
 
@@ -81,8 +81,9 @@ Szukasz czegoś wyjątkowego, co oczaruje Twoich gości? Nasz pakiet premium "Ek
 ### Cena: 
 Cena pakietu zależy od liczby gości oraz wybranych dodatkowych usług. Skontaktuj się z nami, aby uzyskać szczegółową ofertę dopasowaną do Twoich potrzeb.
 
-### Zapraszamy do kontaktu:
-Telefon: *+48 12 345 678*  
-E-mail: *kontakt@ladolcevita.pl*  
+
+# Zapraszamy do kontaktu:
+### Telefon: *+48 12 345 678*  
+### E-mail: *kontakt@ladolcevita.pl*  
 
 
