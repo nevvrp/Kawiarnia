@@ -13,11 +13,11 @@
 - Niedziela: 10:00 - 18:00
 
 
-Znajdź nas! https://maps.app.goo.gl/yRQXaNH8RS83gofZ9
+### Znajdź nas! 
 
 <img src="img/map bg.png" width="70%" >
 
-
+*https://maps.app.goo.gl/yRQXaNH8RS83gofZ9*
 
 <img src="img/social media.jpg" width="8%" >  
 
