@@ -1,8 +1,8 @@
 ## Catering od Kawiarni "La Dolce Vita"
 
-<img src="img/ctg x.png" width="%">  
+<img src="img/ctg x.png">  
 
-Rozpieszcz swoich gości wykwintnymi smakami z naszej kawiarni "La Dolce Vita" na Twoim wydarzeniu specjalnym! Nasz catering to gwarancja niezapomnianych doznań kulinarowych, które ożywią każdą okazję.
+Rozpieść swoich gości wykwintnymi smakami z naszej kawiarni "La Dolce Vita" na Twoim wydarzeniu specjalnym! Nasz catering to gwarancja niezapomnianych doznań kulinarnych, które ożywią każdą okazję.
 
 Zapewniamy:
 
@@ -19,8 +19,9 @@ Zaufaj nam, aby uczynić Twój event wyjątkowym i niezapomnianym. Skontaktuj si
 
 
 
-## Oferta Cateringowa
+## Oferta Cateringowa  
 
+<img src="img/ctg z.png" >  
 
 
 ### Pakiet Standardowy - "Smaki Kawiarni"
@@ -50,9 +51,38 @@ Nasza kawiarnia "La Dolce Vita" oferuje wyjątkowy pakiet cateringowy, który za
 ### Cena: 
 Cena pakietu zależy od liczby gości oraz dodatkowych usług. Skontaktuj się z nami, aby uzyskać szczegółową ofertę dostosowaną do Twoich potrzeb.
 
+
+
+## Pakiet Premium - "Ekskluzywne Smaki"
+
+Szukasz czegoś wyjątkowego, co oczaruje Twoich gości? Nasz pakiet premium "Ekskluzywne Smaki" zapewni niezapomniane doznania kulinarne na Twoim wydarzeniu. W skład tego pakietu wchodzi:
+
+- **Przekąski i Kanapki Premium**:
+  - Mini quiche z serem pleśniowym i suszonymi pomidorami
+  - Kanapki z wędzonym łososiem, kawiorem i kremowym serem
+  - Roladki z indyka z pesto bazyliowym i rukolą
+
+- **Desery Luksusowe**:
+  - Mini tiramisu w pucharkach z dodatkiem likieru amaretto
+  - Eleganckie makaroniki z różowym kremem i płatkami róż
+  - Sernik nowojorski z musem z mango i kawałkami białej czekolady
+
+- **Napoje Premium**:
+  - Wyselekcjonowane wino czerwone i białe
+  - Wykwintne koktajle owocowe i ziołowe
+  - Egzotyczne herbaty z całego świata
+
+### Dodatkowe Usługi:
+
+- **Warsztaty o Kawie**: Zapewnij swoim gościom niezapomniane doświadczenie podczas warsztatów o kawie, prowadzonych przez naszych ekspertów. Naucz się sztuki parzenia idealnej kawy i poznaj tajniki jej smakowania.
+- **Dekoracje Stołów w Stylu Premium**: Stwórz niepowtarzalny klimat dzięki ekskluzywnym dekoracjom stołów w stylu luksusowym.
+- **Obsługa Baru Drinkami**: Nasz zespół barmanów przygotuje dla Twoich gości wykwintne drinki i koktajle na każdą okazję.
+
+### Cena: 
+Cena pakietu zależy od liczby gości oraz wybranych dodatkowych usług. Skontaktuj się z nami, aby uzyskać szczegółową ofertę dopasowaną do Twoich potrzeb.
+
 ### Zapraszamy do kontaktu:
 Telefon: *+48 12 345 678*  
 E-mail: *kontakt@ladolcevita.pl*  
 
 
-<img src="img/cat 8.jpeg" width="50%">  
