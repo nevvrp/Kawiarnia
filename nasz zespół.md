@@ -23,3 +23,6 @@
 
 *Piotr to prawdziwy znawca kawy i doskonały barista w naszej kawiarni. Zawsze dba o to, aby każda filiżanka kawy była przyrządzona z najwyższą starannością i pasją. Jego uśmiech i pozytywne podejście do pracy sprawiają, że nasi klienci czują się mile widziani od pierwszego momentu. Piotr jest również świetnym słuchaczem i zawsze gotów porozmawiać z gośćmi na różnorodne tematy, tworząc przyjemną atmosferę w kawiarni. Zawsze służy też radą w wyborze najlepszego napoju, dopasowanego do indywidualnych preferencji każdego klienta.*
 
+
+
+## Chciałbyś do nas dołączyć? Wyślij swoje CV na ladolcevita@praca.pl
