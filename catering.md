@@ -1,5 +1,7 @@
 ## Catering od Kawiarni "La Dolce Vita"
 
+<img src="img/ctg 1.jpg" width="70%">  
+
 Rozpieszcz swoich gości wykwintnymi smakami z naszej kawiarni "La Dolce Vita" na Twoim wydarzeniu specjalnym! Nasz catering to gwarancja niezapomnianych doznań kulinarowych, które ożywią każdą okazję.
 
 Zapewniamy:
